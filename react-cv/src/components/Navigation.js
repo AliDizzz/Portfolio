@@ -16,11 +16,56 @@ const Navigation = () => {
 
             <div className="navigation">
                 <ul>
-                    <NavLink exact to="/" activeClassName="navActive">
-                        <i className="fas fa-home"></i>
-                        <span>Accueil</span>
-                    </NavLink>
+                    <li>
+                        <NavLink exact to="/" activeClassName="navActive">
+                            <i className="fas fa-home"></i>
+                            <span>Accueil</span>
+                        </NavLink>
+                    </li>
+                    <li>
+                        <NavLink exact to="/competences" activeClassName="navActive">
+                            <i className="fas fa-mountain"></i>
+                            <span>Compétences</span>
+                        </NavLink>
+                    </li>                    <li>
+                        <NavLink exact to="/portfolio" activeClassName="navActive">
+                            <i className="fas fa-images"></i>
+                            <span>Portfolio</span>
+                        </NavLink>
+                    </li>                    <li>
+                        <NavLink exact to="/contact" activeClassName="navActive">
+                            <i className="fas fa-address-book"></i>
+                            <span>Contact</span>
+                        </NavLink>
+                    </li>
                 </ul>
+            </div>
+
+            <div className="socialNetwork">
+                <ul>
+                    <li>
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferer">
+                            <i className="fab fa-linkedin"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferer">
+                            <i className="fab fa-github"></i>
+                        </a>
+                    </li>                    <li>
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferer">
+                            <i className="fab fa-twitter"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferer">
+                            <i className="fab fa-codepen"></i>
+                        </a>
+                    </li>
+                </ul>
+                <div className="signature">
+                    <p>fromYildizAli - 2021</p>
+                </div>
             </div>
         </div>
     );
