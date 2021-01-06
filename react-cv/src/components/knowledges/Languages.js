@@ -15,7 +15,7 @@ class Languages extends Component {
             {id: 2, value: "Bootstrap", xp:0.6},
             {id: 2, value: "Tailwind", xp:0.2},
             {id: 3, value: "Sass", xp:0.2},
-            {id: 4, value: "Material UI", xp:0.2}
+            {id: 4, value: "Material UI", xp:0.1}
         ]
     }
 
@@ -25,8 +25,16 @@ class Languages extends Component {
         
         return (
             <div className="languagesFrameworks">
-                <ProgressBar />
-                <ProgressBar />
+                <ProgressBar
+                languages={languages}
+                className="languagesDisplay"
+                title="languages"
+                />
+                <ProgressBar
+                languages={frameworks}
+                className="frameworksDisplay"
+                title="frameworks"
+                />
             </div>
         );
     }
