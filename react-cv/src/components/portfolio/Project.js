@@ -14,6 +14,11 @@ export default class Project extends Component {
                         <i className={icon} key={icon}></i>
                         )}
                 </div>
+                <h3>{name}</h3>
+                <img src={picture} alt=""/>
+                <span className="infos">
+                    <i className="fas fa-plus-circle"></i>
+                </span>
             </div>
         )
     }
