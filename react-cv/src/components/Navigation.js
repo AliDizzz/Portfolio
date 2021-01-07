@@ -44,21 +44,21 @@ const Navigation = () => {
             <div className="socialNetwork">
                 <ul>
                     <li>
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferer">
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
                             <i className="fab fa-linkedin"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferer">
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
                             <i className="fab fa-github"></i>
                         </a>
                     </li>                    <li>
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferer">
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
                             <i className="fab fa-twitter"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferer">
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
                             <i className="fab fa-codepen"></i>
                         </a>
                     </li>
