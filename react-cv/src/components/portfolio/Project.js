@@ -39,6 +39,8 @@ export default class Project extends Component {
                                     </div>
                                 </div>
 
+                                <p className="text">{info}</p>
+
                                 <div className="button return" onClick={this.handleInfo}>
                                     Retourner sur la page
                                 </div>
