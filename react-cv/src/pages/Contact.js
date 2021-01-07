@@ -26,6 +26,40 @@ const Contact = () => {
                                 </span>
                             </CopyToClipboard>
                         </li>
+                        <li>
+                            <i className="fas fa-envelope"></i>
+                            <CopyToClipboard text="yildiz.ali.s1990@gmail.com">
+                                <span 
+                                    className="clickInput"
+                                    onClick={() => { alert('E-mail bien copié !');}}
+                                >
+                                    yildiz.ali.s1990@gmail.com 
+                                </span>
+                            </CopyToClipboard>
+                        </li>
+                    </ul>
+                </div>
+                <div className="socialNetwork">
+                    <ul>
+                    <li>
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                            <i className="fab fa-linkedin"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                            <i className="fab fa-github"></i>
+                        </a>
+                    </li>                    <li>
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                            <i className="fab fa-twitter"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                            <i className="fab fa-codepen"></i>
+                        </a>
+                    </li>
                     </ul>
                 </div>
             </div>
