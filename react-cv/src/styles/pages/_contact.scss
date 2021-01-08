@@ -55,22 +55,13 @@
       position: relative;
       color: $color-2;
 
-      &:after {
-        content: '';
-        height: 1px;
-        width: 50%;
-        background: $color-1;
-        position: absolute;
-        bottom: -25px;
-        left: 50%;
-        transform: translateX(-50%);
-      }
+
     }
     ul {
-      height: 72%;
+      height:70%;
       width: inherit;
       display: grid;
-      margin-top: 3.5rem;
+      margin-top: 1.0rem;
 
 
 
@@ -91,8 +82,9 @@
         background: transparent;
         border: none;
         outline: none;
-        width: 350px;
+        width: 160%;
         transition: .2s ease;
+        color: $white;
       }
       .clickInput:hover {
         transform: translateX(56px);
@@ -171,4 +163,27 @@
       font-size: .9rem;
     }
   }
+}
+
+@media screen and (min-width: 770px) and (max-width: 1000px){
+  .contactContent {
+    .contactBox {
+      min-width: 100% !important;
+    }
+    span {
+      font-size: .9rem !important;
+    }
+    h4 {
+      font-size: .9rem;
+    }
+    ul {
+      height: 70%;
+      width: inherit;
+      display: grid;
+      margin-top: 1.0rem;
+      margin-left: 13rem;
+  }
+
+  }
+  
 }
