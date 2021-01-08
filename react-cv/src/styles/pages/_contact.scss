@@ -38,13 +38,14 @@
   }
   .contactBox {
     grid-area: 2;
-    background: $color-5;
+    //background: $color-5;
     margin: 0 auto;
     padding: 1rem 3rem;
     z-index: 2;
     border-radius: $borderRadius;
-    box-shadow: 0 3px 10px #333;
+    //box-shadow: 0 3px 10px #333;
     width: 50%;
+    height: 50%;
     min-width: 440px;
     min-height: 200px;
 
@@ -70,6 +71,8 @@
       width: inherit;
       display: grid;
       margin-top: 3.5rem;
+
+
 
       li {
         position: relative;
@@ -100,6 +103,7 @@
   .socialNetwork {
     grid-area: 3;
     @include verticalCenter;
+    height: 130%;
 
     ul {
       display: flex;
