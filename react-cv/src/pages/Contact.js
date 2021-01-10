@@ -42,24 +42,24 @@ const Contact = () => {
                 <div className="socialNetwork">
                     <ul>
                     
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                        <a href="https://www.linkedin.com/in/ali-yildiz-06245b1a4/" target="_bank" rel="noopener noreferrer">
                             <h4>LinkedIn</h4>
                             <i className="fab fa-linkedin"></i>
                         </a>
                     
                     
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                        <a href="https://github.com/AliDizzz" target="_bank" rel="noopener noreferrer">
                             <h4>GitHub</h4>
                             <i className="fab fa-github"></i>
                         </a>
                     
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                        <a href="https://twitter.com/home" target="_bank" rel="noopener noreferrer">
                             <h4>Twitter</h4>
                             <i className="fab fa-twitter"></i>
                         </a>
 
                     
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                        <a href="https://codepen.io/alidizzz/pens/showcase" target="_bank" rel="noopener noreferrer">
                             <h4>CodePen</h4>
                             <i className="fab fa-codepen"></i>
                         </a>
