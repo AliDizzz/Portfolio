@@ -53,7 +53,7 @@
       text-align: center;
       margin-top: 0.3rem;
       position: relative;
-      color: $color-2;
+      color: $color-5;
 
 
     }
@@ -120,6 +120,9 @@
           background: $color-5;
         }
 
+        h4 {
+          color: $color-5;
+        }
         i {
           color: $color-2;
           margin-top: .3rem;
