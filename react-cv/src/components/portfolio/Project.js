@@ -21,7 +21,7 @@ export default class Project extends Component {
                         <i className={icon} key={icon}></i>
                         )}
                 </div>
-                <h3>{name}</h3>
+                        <div><h3>{name}</h3></div>
                 <img src={picture} alt="" onClick={this.handleInfo} />
                 <span className="infos" onClick={this.handleInfo} >
                     <i className="fas fa-plus-circle"></i>

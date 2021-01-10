@@ -83,7 +83,7 @@
     justify-content: space-around;
 
     .project {
-      background: $color-2;
+      background: $color-1;
       border-radius: $borderRadius;
       margin: 0.5rem 0 0 0;
       text-align: center;
@@ -115,6 +115,7 @@
     h3 {
       grid-area: 2;
       font-family: $font-2;
+      color: $color-5;
       font-size: 1.65rem;
       @include verticalCenter;
       justify-content: left;
