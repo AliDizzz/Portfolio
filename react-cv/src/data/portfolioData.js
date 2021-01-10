@@ -15,7 +15,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-react'],
     source: 'localhost:3000',
     info: 'Creation de mon portfolio personel, avec comme language de programmation, du Javascript, Css compilé Sass et React.',
-    picture: './media/project2.JPG'
+    picture: './media/project2.png'
   },
 
 ]
