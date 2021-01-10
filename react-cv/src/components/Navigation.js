@@ -43,27 +43,28 @@ const Navigation = () => {
             <div className="socialNetwork">
                 <ul>
                     <li>
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                        <a href="https://www.linkedin.com/in/ali-yildiz-06245b1a4/" target="_bank" rel="noopener noreferrer">
                             <i className="fab fa-linkedin"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                        <a href="https://github.com/AliDizzz" target="_bank" rel="noopener noreferrer">
                             <i className="fab fa-github"></i>
                         </a>
-                    </li>                    <li>
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                    </li>                    
+                    <li>
+                        <a href="https://www.twitter.com" target="_bank" rel="noopener noreferrer">
                             <i className="fab fa-twitter"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.google.com" target="_bank" rel="noopener noreferrer">
+                        <a href="https://codepen.io/alidizzz" target="_bank" rel="noopener noreferrer">
                             <i className="fab fa-codepen"></i>
                         </a>
                     </li>
                 </ul>
                 <div className="signature">
-                    <p>fromYildizAli - 2021</p>
+                    <p>fromYildizAli 2020 - 2021</p>
                 </div>
             </div>
         </div>
