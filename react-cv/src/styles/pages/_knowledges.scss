@@ -123,12 +123,13 @@
         color: $color-5;
       }
       h5 {
-        color: $color-3;
+        color: $color-4;
         padding: 0.5rem 0 0.5rem 1rem;
       }
       p {
         text-align: justify;
         padding: 0 1rem;
+        color: $color-3;
       }
       .exp-1 {
         grid-area: 2;
@@ -153,8 +154,11 @@
           display: grid;
 
           i {
-            color: $color-5;
+            color: $color-4;
             letter-spacing:10px
+          }
+          span {
+            color: $color-3;
           }
         }
       }
@@ -170,11 +174,12 @@
         li {
           i {
             position: absolute;
-            color: $color-5;
+            color: $color-4;
           }
           span {
             position: absolute;
             transform: translateX(2.2rem);
+            color: $color-3;
           }
         }
       }

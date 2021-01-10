@@ -9,38 +9,38 @@ const OtherSkills = () => {
                 <ul>
                     <li>
                         <i className="fas fa-check-square"></i>
-                        Anglais technique
+                        <span>Anglais technique</span> 
                     </li>
                     <li>
                         <i className="fas fa-check-square"></i>
-                        Github
+                        <span>Github</span>
                     </li>                    
                     <li>
                         <i className="fas fa-check-square"></i>
-                        SEO
+                        <span>SEO</span>
                     </li>                    
                     <li>
                         <i className="fas fa-check-square"></i>
-                        Méthodes agiles
+                        <span>Méthodes agiles</span>
                     </li>
                 </ul>
 
                 <ul>
                     <li>
                         <i className="fas fa-check-square"></i>
-                        Commercial
+                        <span>Commercial</span>
                     </li>
                     <li>
                         <i className="fas fa-check-square"></i>
-                        Autonome
+                        <span>Autonome</span>
                     </li>                    
                     <li>
                         <i className="fas fa-check-square"></i>
-                        Force de persuasion - Enthousiasme
+                        <span>Force de persuasion - Enthousiasme</span>
                     </li>                    
                     <li>
                         <i className="fas fa-check-square"></i>
-                        Aptitudes relationnelles
+                        <span>Aptitudes relationnelles</span>
                     </li>
                 </ul>
 

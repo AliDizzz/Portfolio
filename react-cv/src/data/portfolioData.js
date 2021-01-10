@@ -10,7 +10,7 @@ export const portfolioData = [
   },
   {
     id: 2,
-    name: 'Portfolio perso',
+    name: 'Portfolio Perso',
     languages: ['javascript','react'],
     languagesIcons: ['fab fa-js','fab fa-react'],
     source: 'localhost:3000',
