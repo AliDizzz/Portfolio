@@ -7,8 +7,8 @@ const Home = () => {
             <Navigation />
             <div className="homeContent">
                 <div className="content">
-                    <h1>Yildiz Ali</h1>
-                    <h2>Développeur Junior<br></br>Web et Web Mobile</h2>
+                    <h1>DEVELOPPEUR Junior</h1>
+                    <h2>Web et Web Mobile</h2>
                     <div className="pdf">
                         <a href="./media/DeveloppeurWeb-Yildiz.pdf" target="_blank">Télécharger CV</a>
                     </div>

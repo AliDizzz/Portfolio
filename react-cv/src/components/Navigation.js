@@ -64,7 +64,7 @@ const Navigation = () => {
                     </li>
                 </ul>
                 <div className="signature">
-                    <p>fromYildizAli 2020 - 2021</p>
+                    <p> from Yildiz Ali 2020 - 2021</p>
                 </div>
             </div>
         </div>
