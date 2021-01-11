@@ -25,6 +25,36 @@
     left: 13%;
     font-family: $font-1;
 
+    #target {
+        font-size: 5rem;
+        font-family: $font-3;
+        color: $color-5;
+        text-transform: uppercase;
+        text-shadow: 3px 6px 2px $black;
+
+        // min-height: 100vh;
+        // font-family: 'Josefin Sans', sans-serif;
+        // display: flex;
+        // align-items: center;
+        // justify-content: center;
+        // overflow: hidden;
+        // font-size: 5rem;
+    }
+
+    .letter {
+        transform: translateZ(200px);
+    }
+    @keyframes anim {
+        25% {
+            transform: translateZ(0px);
+            opacity: 1;
+        }
+        32% {
+            opacity: 0;
+            transform: translateZ(-280px) translateX(200px);
+        }
+    }
+
     h1 {
         font-size: 5rem;
         font-family: $font-3;
@@ -32,6 +62,7 @@
         text-transform: uppercase;
         text-shadow: 3px 6px 2px $black;
     }
+    
     h2 {
         font-size: 2.5rem;
         padding: 1.5rem 0 7rem;
