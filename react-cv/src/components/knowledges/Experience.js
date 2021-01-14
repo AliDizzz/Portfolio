@@ -27,7 +27,10 @@ const Experience = () => {
                 • React Native: application mobile de gestion de film.
                 </p>
                 <p>
-                • React.js: Projet Portfolio + déploiement du site (en cours).
+                • React.js: Projet Portfolio + déploiement du site.
+                </p>                
+                <p>
+                • Next.js / Tailwind : Projet application crypto monnaies + déploiement du site.
                 </p>
             </div>
         </div>
