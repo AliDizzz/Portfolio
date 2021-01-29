@@ -12,6 +12,7 @@ export default class ProjectList extends Component {
             {id: 4, value: "php"},
             {id: 5, value: "tailwind"},
             {id: 1, value: "next.js"},
+            {id: 6, value: "node.js"},
 
         ],
         selectedRadio: 'javascript'

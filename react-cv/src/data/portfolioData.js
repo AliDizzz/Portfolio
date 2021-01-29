@@ -26,5 +26,14 @@ export const portfolioData = [
     info: 'Application des 10 meilleurs crypto monnaies avec Next.js et Tailwind. utilisation du server side,récuperation de API Crypto monnaies source: https://nomics.com/ et quelque animation avec Framer Motion API source : https://www.framer.com/api/motion/   ',
     picture: './media/project3.png'
   },
+  {
+    id: 4,
+    name: 'MERN projet app ',
+    languages: ['javascript','react','node.js'],
+    languagesIcons: ['fab fa-js','fab fa-node-js'],
+    source: 'https://github.com/AliDizzz/project-MERN',
+    info: 'Application reseau social Full-stack fait avec un tutoriel. création du sites web complets (back-end et front-end) avec la MERN stack, on utilise le JavaScript côté client et le Node.js côté serveur. (MongoDB Express React Node.js) non-déployer -sourceTUTO-: https://www.youtube.com/watch?v=ghdRD3pt8rg',
+    picture: './media/project4.png'
+  },
 
 ]

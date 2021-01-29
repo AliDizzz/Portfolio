@@ -11,7 +11,6 @@ const Experience = () => {
                 • Maitrise des fondamentaux informatiques
                 • Apprentissage par projet
                 • Acquis des compétences nécessaires pour une parfaite application sur les activités principales d’un développeur web et web mobile
-
                 </p>
             </div>
             <div className="exp-2">
@@ -19,18 +18,21 @@ const Experience = () => {
                 <h5>2020 - Aujourd'hui</h5>
                 <p>
                 • Symfony MySQL: Projet de fin de formation + présentation PPT.
-                </p>                
+                </p><br/>
                 <p>
                 • Node.js / Javascript: révision.
-                </p>
+                </p><br/>
                 <p>
                 • React Native: application mobile de gestion de film.
-                </p>
+                </p><br/>
                 <p>
                 • React.js: Projet Portfolio + déploiement du site.
-                </p>                
+                </p><br/>
                 <p>
                 • Next.js / Tailwind : Projet application crypto monnaies + déploiement du site.
+                </p><br/>
+                <p>
+                • MongoDB Express React Node.js : Projet full-stack MERN réseau social
                 </p>
             </div>
         </div>
