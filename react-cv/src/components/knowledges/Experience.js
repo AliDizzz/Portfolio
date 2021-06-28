@@ -14,24 +14,33 @@ const Experience = () => {
                 </p>
             </div>
             <div className="exp-2">
+                <h4>Formation - APPLE Foundation Program</h4>
+                <h5>2021</h5>
+                <p>
+                • Design UX
+                • Développement Mobile IOS/SWIFT
+                • Compétences transversales
+                </p>
+            </div>
+            <div className="exp-3">
                 <h4>Projets personnels</h4>
                 <h5>2020 - Aujourd'hui</h5>
                 <p>
                 • Symfony MySQL: Projet de fin de formation + présentation PPT.
-                </p><br/>
-                <p>
+                <br/>
+                
                 • Node.js / Javascript: révision.
-                </p><br/>
-                <p>
+                <br/>
+                
                 • React Native: application mobile de gestion de film.
-                </p><br/>
-                <p>
+                <br/>
+                
                 • React.js: Projet Portfolio + déploiement du site.
-                </p><br/>
-                <p>
+                <br/>
+                
                 • Next.js / Tailwind : Projet application crypto monnaies + déploiement du site.
-                </p><br/>
-                <p>
+                <br/>
+                
                 • MongoDB Express React Node.js : Projet full-stack MERN réseau social
                 </p>
             </div>

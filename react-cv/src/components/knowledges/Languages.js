@@ -7,7 +7,8 @@ class Languages extends Component {
             {id: 1, value: "Javascript", xp:0.6},
             {id: 2, value: "Css", xp:0.6},
             {id: 3, value: "Php", xp:0.3},
-            {id: 4, value: "Pyton", xp:0.1}
+            {id: 4, value: "Pyton", xp:0.1},
+            {id: 4, value: "Swift UI", xp:0.2}
         ],
         frameworks: [
             {id: 1, value: "React", xp:0.6},
