@@ -5,21 +5,21 @@ const Experience = () => {
         <div className="experience">
             <h3>Expérience</h3>
             <div className="exp-1">
-                <h4>Formation - Développeur web et web mobile - niv.5 (BAC+2) </h4>
-                <h5>2019 - 2020</h5>
-                <p>
-                • Maitrise des fondamentaux informatiques
-                • Apprentissage par projet
-                • Acquis des compétences nécessaires pour une parfaite application sur les activités principales d’un développeur web et web mobile
-                </p>
-            </div>
-            <div className="exp-2">
                 <h4>Formation - APPLE Foundation Program</h4>
                 <h5>2021</h5>
                 <p>
                 • Design UX
                 • Développement Mobile IOS/SWIFT
                 • Compétences transversales
+                </p>
+            </div>
+            <div className="exp-2">
+                <h4>Formation - Développeur web et web mobile - niv.5 (BAC+2) </h4>
+                <h5>2019 - 2020</h5>
+                <p>
+                • Maitrise des fondamentaux informatiques
+                • Apprentissage par projet
+                • Acquis des compétences nécessaires pour une parfaite application sur les activités principales d’un développeur web et web mobile
                 </p>
             </div>
             <div className="exp-3">
